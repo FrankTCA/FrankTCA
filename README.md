@@ -14,4 +14,4 @@ If you're reading this, you've gone down the rabbit hole. Stay for a little whil
 #### How to reach out
 If you're interested in becoming just like me (cool), maybe you should join my <a href="https://app.element.io/#/room/#info-toast:infotoast.ems.host">Matrix</a> (#info-toast:infotoast.ems.host) or <a href="https://discord.gg/2wMPtrZbPF">Discord</a>. Maybe we can even form a friendship (*cough cough* parasocial relationship).
 
-![FrankTCA's github stats](https://github-readme-stats.vercel.app/api?username=FrankTCA)](https://github.com/anuraghazra/github-readme-stats)
+![FrankTCA's github stats](https://github-readme-stats.vercel.app/api?username=FrankTCA)]
