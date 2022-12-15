@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello GitHub Nerds 🤓🤓🤓
 
-<!--
-**FrankTCA/FrankTCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you're reading this, you've gone down the rabbit hole. Stay for a little while, have a cup of tea by the campfire.
 
-Here are some ideas to get you started:
+#### What I do
+- 🖊 Lead Author of <a href="https://infotoast.org">Info Toast</a>
+- 🌎 Developer of <a href="https://github.com/FrankTCA/OpenTopG">performance fork</a> of <a href="https://openterraingenerator.org">OpenTerrainGenerator</a>
+- 🔥 Creator of the <a href="https://www.curseforge.com/minecraft/mc-mods/gehenna-super-spooky-nether-overhaul-for-forge">Gehenna</a> mod
+- 🗿 <a href="https://github.com/FrankTCA/DiscordMemes">Memer</a>
+- 👑 Emperor of the United States
+- 🗡 Protector of Mexico
+- 😎 Sexiest Man Alive
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### How to reach out
+If you're interested in becoming just like me (cool), maybe you should join my <a href="https://app.element.io/#/room/#info-toast:infotoast.ems.host">Matrix</a> (#info-toast:infotoast.ems.host) or <a href="https://discord.gg/2wMPtrZbPF">Discord</a>. Maybe we can even form a friendship (*cough cough* parasocial relationship).
