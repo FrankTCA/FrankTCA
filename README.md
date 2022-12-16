@@ -6,7 +6,7 @@ If you're reading this, you've gone down the rabbit hole. Stay for a little whil
 - 🖊 Lead Author of <a href="https://infotoast.org">Info Toast</a>
 - 🌎 Developer of <a href="https://github.com/FrankTCA/OpenTopG">performance fork</a> of <a href="https://openterraingenerator.org">OpenTerrainGenerator</a>
 - 🔥 Creator of the <a href="https://www.curseforge.com/minecraft/mc-mods/gehenna-super-spooky-nether-overhaul-for-forge">Gehenna</a> mod
-- 🌲 Creator of the <a href="https://https://www.spigotmc.org/resources/lorax-custom-trees.94584/">Lorax</a> plugin
+- 🌲 Programmer of the <a href="https://https://www.spigotmc.org/resources/lorax-custom-trees.94584/">Lorax</a> plugin
 - 🗿 <a href="https://github.com/FrankTCA/DiscordMemes">Memer</a>
 - 👑 Emperor of the United States
 - 🗡 Protector of Mexico
